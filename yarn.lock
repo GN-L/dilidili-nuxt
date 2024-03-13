@@ -4934,7 +4934,7 @@ validate-npm-package-name@^5.0.0:
   dependencies:
     builtins "^5.0.0"
 
-vant@>=4:
+vant@^4.8.5, vant@>=4:
   version "4.8.5"
   resolved "https://registry.npmmirror.com/vant/-/vant-4.8.5.tgz"
   integrity sha512-l+gz0oVNn5z/3q2AYGsyi0jvkRb8968rr+bBe3mifV+Szad6LwD1i715LlA3Nrv8PlimQ9ZT8wtkjuKjGkNMGw==
